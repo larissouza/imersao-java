@@ -12,3 +12,4 @@ Inscreva-se: https://www.alura.com.br/imersao-java<h4>
 
 - ``Java 8``
 - ``InteliJ IDEA``
+- ``Visual Studio Code``
